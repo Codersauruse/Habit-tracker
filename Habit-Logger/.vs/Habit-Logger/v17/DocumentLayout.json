@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My things\\Myprojects\\Habit-Logger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C4CAF6-68B5-4363-987C-A239D3343655}|Habit-Logger.csproj|d:\\my things\\myprojects\\habit-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C4CAF6-68B5-4363-987C-A239D3343655}|Habit-Logger.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C4CAF6-68B5-4363-987C-A239D3343655}|Habit-Logger.csproj|d:\\my things\\myprojects\\habit-logger\\habit-logger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19C4CAF6-68B5-4363-987C-A239D3343655}|Habit-Logger.csproj|solutionrelative:habit-logger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C4CAF6-68B5-4363-987C-A239D3343655}|Habit-Logger.csproj|d:\\my things\\myprojects\\habit-logger\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C4CAF6-68B5-4363-987C-A239D3343655}|Habit-Logger.csproj|solutionrelative:databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Habit-Logger",
+              "DocumentMoniker": "D:\\My things\\Myprojects\\Habit-Logger\\Habit-Logger.csproj",
+              "RelativeDocumentMoniker": "Habit-Logger.csproj",
+              "ToolTip": "D:\\My things\\Myprojects\\Habit-Logger\\Habit-Logger.csproj",
+              "RelativeToolTip": "Habit-Logger.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T18:45:20.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\My things\\Myprojects\\Habit-Logger\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection.cs",
+              "ToolTip": "D:\\My things\\Myprojects\\Habit-Logger\\DatabaseConnection.cs",
+              "RelativeToolTip": "DatabaseConnection.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAmwIsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:26:16.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My things\\Myprojects\\Habit-Logger\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\My things\\Myprojects\\Habit-Logger\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:10:57.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
